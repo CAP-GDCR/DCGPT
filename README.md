@@ -2,7 +2,7 @@
 
 <!-- [![Downloads](https://static.pepy.tech/badge/dcgpt)](https://pepy.tech/project/dcgpt) -->
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
-![License](https://img.shields.io/github/license/liminghao0914/DCGPT)
+![License](https://img.shields.io/github/license/CAP-GDCR/DCGPT)
 
 
 <div align="center">
@@ -47,8 +47,8 @@ This application allows users to upload files. Our dcgpt, through learning massi
 ### Framework Overview -->
 
 ## Contributors
-<a href="https://github.com/liminghao0914/dcgpt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=liminghao0914/dcgpt" />
+<a href="https://github.com/CAP-GDCR/DCGPT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CAP-GDCR/DCGPT" />
 </a>
 
 <!-- ## News -->
@@ -62,7 +62,7 @@ This application allows users to upload files. Our dcgpt, through learning massi
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/liminghao0914/DCGPT}},
+  howpublished = {\url{https://github.com/CAP-GDCR/DCGPT}},
 }
 ```
 
